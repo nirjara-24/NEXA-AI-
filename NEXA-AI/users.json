@@ -1,0 +1,47 @@
+{
+    "admin": {
+        "username": "admin",
+        "email": "admin@dexter.ai",
+        "password": "scrypt:32768:8:1$VnllrYgZ8NguyPkh$06db69c5b4ef57407b83c09fbbdd9ea7841d0f5a6b845d1e7514e1cb9affa930adc03ef26aa1713b50bc8ac984046839ec583dbec5a807c581460d3832c7efc3",
+        "role": "admin",
+        "created_at": "2026-03-24 00:08:44",
+        "message_count": 12,
+        "last_active": "2026-05-11 21:10:59"
+    },
+    "yajju": {
+        "username": "yajju",
+        "email": "yajju@gmail.com",
+        "password": "scrypt:32768:8:1$Egxp4VHhhRDfPuZU$2496a9e87b77b36693ea06cbea72d3ab69a376af323e9ba9125c51af1cb79cc216970404649264e0731f78c22543633cf811abcda4e3587368454475fab1b6f1",
+        "role": "user",
+        "created_at": "2026-03-24 00:13:26",
+        "message_count": 14,
+        "last_active": "2026-04-10 18:55:43"
+    },
+    "jeet": {
+        "username": "jeet",
+        "email": "jeetbaraiya7@gmail.com",
+        "password": "scrypt:32768:8:1$V9L6AoEOh8qw9W5N$61b0c02f23ffb8554adfd438c782f203ef1f86a532a2925ffc10c8358624dca46ed0ef0c5fb744bc8af1ec3b2546f030c53bda1f0891c9cb4a25af7de4dda4c8",
+        "role": "user",
+        "created_at": "2026-04-01 15:34:02",
+        "message_count": 5,
+        "last_active": "2026-04-01 16:08:17"
+    },
+    "madhavi": {
+        "username": "madhavi",
+        "email": "baradmadhavi5@gmail.com",
+        "password": "scrypt:32768:8:1$zYatKZ5B6vanoQg8$28de530a2ba3b1227182111090f8ccce8c03cd87fd1d202160f01bcc30e53801acc02d8160f3eaa71fdbe49fff34105d9b8e9047e48172f940edafa393665cfa",
+        "role": "user",
+        "created_at": "2026-04-30 16:45:08",
+        "message_count": 6,
+        "last_active": "2026-04-30 17:02:10"
+    },
+    "abc": {
+        "username": "abc",
+        "email": "abc123@gmail.com",
+        "password": "scrypt:32768:8:1$v6tCzCJ9sY5XP7Im$91c1a6411eb7324b2df48e52a7a0f6c037705b28c6dfc0bae917de7bef99090476cde8909fccbcc1b6ad530d62e968c37bd7a5ba78a691344891b71c59222c36",
+        "role": "user",
+        "created_at": "2026-05-11 21:11:32",
+        "message_count": 2,
+        "last_active": "2026-05-11 21:25:45"
+    }
+}

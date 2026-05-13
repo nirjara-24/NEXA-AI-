@@ -1,0 +1,9 @@
+{
+    "total_messages": 3,
+    "total_response_time": 6.768,
+    "sentiment_counts": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 3
+    }
+}
