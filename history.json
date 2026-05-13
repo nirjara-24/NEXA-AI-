@@ -1,0 +1,209 @@
+[
+    {
+        "query": "hy",
+        "time": "2026-05-11 21:25:45",
+        "user": "abc"
+    },
+    {
+        "query": "hy",
+        "time": "2026-05-11 21:22:18",
+        "user": "abc"
+    },
+    {
+        "query": "hy",
+        "time": "2026-05-11 21:10:57",
+        "user": "admin"
+    },
+    {
+        "query": "Hello!",
+        "time": "2026-05-11 21:09:46",
+        "user": "admin"
+    },
+    {
+        "query": "python",
+        "time": "2026-04-30 17:02:06",
+        "user": "madhavi"
+    },
+    {
+        "query": "code",
+        "time": "2026-04-30 17:01:57",
+        "user": "madhavi"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-30 17:01:20",
+        "user": "madhavi"
+    },
+    {
+        "query": "hello world progaram",
+        "time": "2026-04-30 16:55:26",
+        "user": "madhavi"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-30 16:54:57",
+        "user": "madhavi"
+    },
+    {
+        "query": "Hello!",
+        "time": "2026-04-30 16:53:40",
+        "user": "admin"
+    },
+    {
+        "query": "Hello!",
+        "time": "2026-04-30 16:52:18",
+        "user": "admin"
+    },
+    {
+        "query": "Hello!",
+        "time": "2026-04-30 16:50:36",
+        "user": "admin"
+    },
+    {
+        "query": "Hello!",
+        "time": "2026-04-30 16:46:44",
+        "user": "admin"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-30 16:45:20",
+        "user": "madhavi"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-30 16:39:54",
+        "user": "abc"
+    },
+    {
+        "query": "Hello!",
+        "time": "2026-04-30 16:39:21",
+        "user": "admin"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-30 16:38:44",
+        "user": "abc"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-30 16:36:02",
+        "user": "abc"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-30 16:35:17",
+        "user": "abc"
+    },
+    {
+        "query": "Hello!",
+        "time": "2026-04-30 16:34:33",
+        "user": "admin"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-30 16:27:15",
+        "user": "abc"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-30 16:26:11",
+        "user": "abc"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-30 16:21:08",
+        "user": "abc"
+    },
+    {
+        "query": "Help me with coding.",
+        "time": "2026-04-30 16:15:54",
+        "user": "abc"
+    },
+    {
+        "query": "wich language is best for learning",
+        "time": "2026-04-10 21:16:44",
+        "user": "admin"
+    },
+    {
+        "query": "Help me with coding.",
+        "time": "2026-04-10 21:16:14",
+        "user": "admin"
+    },
+    {
+        "query": "GIVE ME SOME SUGGESTIONS FOR MOVIES AND SERIES",
+        "time": "2026-04-10 18:55:33",
+        "user": "yajju"
+    },
+    {
+        "query": "Hello!",
+        "time": "2026-04-10 18:54:31",
+        "user": "admin"
+    },
+    {
+        "query": "Hello!",
+        "time": "2026-04-10 18:53:46",
+        "user": "admin"
+    },
+    {
+        "query": "what are you doing",
+        "time": "2026-04-10 18:46:55",
+        "user": "yajju"
+    },
+    {
+        "query": "suggest me India child name",
+        "time": "2026-04-01 16:06:42",
+        "user": "jeet"
+    },
+    {
+        "query": "suggest me thriller movies and series",
+        "time": "2026-04-01 16:04:34",
+        "user": "jeet"
+    },
+    {
+        "query": "Hello! What can you do?",
+        "time": "2026-04-01 16:02:30",
+        "user": "jeet"
+    },
+    {
+        "query": "suggest me thriller movies",
+        "time": "2026-04-01 15:34:56",
+        "user": "jeet"
+    },
+    {
+        "query": "give me some suggestions for indian movies",
+        "time": "2026-03-24 00:42:52",
+        "user": "yajju"
+    },
+    {
+        "query": "indian charging connectors",
+        "time": "2026-03-24 00:38:28",
+        "user": "yajju"
+    },
+    {
+        "query": "hello",
+        "time": "2026-03-24 00:38:07",
+        "user": "yajju"
+    },
+    {
+        "query": "400",
+        "time": "2026-03-24 00:26:42",
+        "user": "yajju"
+    },
+    {
+        "query": "suggest me horror and thriler movie and series",
+        "time": "2026-03-24 00:15:46",
+        "user": "yajju"
+    },
+    {
+        "query": "todays news of india about petrol price",
+        "time": "2026-03-23 23:56:17"
+    },
+    {
+        "query": "give me name from movies or series characters",
+        "time": "2026-03-23 23:42:10"
+    },
+    {
+        "query": "i am making AI chatbot project suggest me some names",
+        "time": "2026-03-23 23:41:25"
+    }
+]
